@@ -2,7 +2,7 @@ import {  } from 'react-native';
 
 import { ScrollView, StyleSheet, View } from 'react-native';
 
-import FeedPost from './src/components/FeedPost/FeedPost';
+import FeedPost from './src/components/FeedPost';
 import colors from './src/theme/colors';
 
 const App = () => {
