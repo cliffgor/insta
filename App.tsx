@@ -1,13 +1,15 @@
-import { StyleSheet, View } from 'react-native';
+import {  } from 'react-native';
+
+import { ScrollView, StyleSheet, View } from 'react-native';
 
 import FeedPost from './src/components/FeedPost/FeedPost';
 import colors from './src/theme/colors';
 
 const App = () => {
   return (
-    <View style={styles.app}>
+    <ScrollView style={styles.app}>
       <FeedPost/>
-    </View>
+    </ScrollView>
   
   )
 };
