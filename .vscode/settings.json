@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "eslint.format.enable": true,
+    "eslint.run": "onSave",
+    "eslint.trace.server": "off",
+    "tailwindCSS.emmetCompletions": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": true,
+    "javascript.format.enable": false
+}
